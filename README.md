@@ -21,10 +21,6 @@ Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway.
 
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 
-**Deployed On:**
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
 **Image Management:** [Cloudinary](https://cloudinary.com/)
 **Mail Service:** [mailtrap](https://mailtrap.io/)
 
